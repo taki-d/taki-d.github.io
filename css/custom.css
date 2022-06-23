@@ -1,0 +1,11 @@
+
+code {
+    border: 10px;
+    margin: 5px;
+    overflow: visible;
+}
+
+pre {
+    background-color: #f6f8fa;
+    overflow: auto;
+}
