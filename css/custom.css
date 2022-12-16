@@ -10,6 +10,11 @@ pre {
     overflow: auto;
 }
 
+img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
 
 .sns_parent {
   text-align: center;
